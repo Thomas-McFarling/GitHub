@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.github": true,
+        "**/.gitignore": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/*.class": true
+    },
+    "extensions.ignoreRecommendations": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.defaultCloneDirectory": "C:\\Users\\This PC\\Desktop\\GitHub\\",
+    "git.openAfterClone": "always",
+    "git.showPushSuccessNotification": true,
+    "git.showUnpublishedCommitsButton": "always",
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "none",
+}
